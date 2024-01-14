@@ -1,0 +1,28 @@
+# Colors (Norrsken)
+[colors.bright]
+black   = "#737272"
+blue    = "#3465A4"
+cyan    = "#06989A"
+green   = "#51A105"
+magenta = "#A741B8"
+red     = "#FF0000"
+white   = "#D3D7CF"
+yellow  = "#FFCE51"
+
+[colors.cursor]
+cursor  = "#F6F6F6"
+text    = "#49B9C7"
+
+[colors.normal]
+black   = "#000000"
+blue    = "#4894c7"
+cyan    = "#28b5b5"
+green   = "#73C48F"
+magenta = "#AD7FA8"
+red     = "#F15D22"
+white   = "#EEEEEC"
+yellow  = "#C4A000"
+
+[colors.primary]
+background = "#2D3743"
+foreground = "#D8DEE9"
